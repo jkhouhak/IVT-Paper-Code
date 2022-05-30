@@ -1,1 +1,3 @@
-
+Two examples are provided with the exact set of parameters that you can see in both codes that are in this folder (Examples) for the Rabbit and the P.Falciparum. 
+If you run the codes, you should get the same results as you can see in this folder with the name "Rabbit_Model_Results" for the Rabbit system, 
+and "P.Falciparum_Model_Results" for the P.Falciparum. You can always play with parameters and variables to get different results.
